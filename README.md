@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **🔍 Scikit, ML**
 
-- 💬 Ask me about **Python, Sql, Numpy, Pandas, MatplotLib, Seaborn, Power PI, Excel**
+- 💬 Ask me about **Python, Sql, Numpy, Pandas, MatplotLib, Seaborn, Plotly,  Power BI, Excel, Snowflake**
 
 - 📫 How to reach me **reachtosrijani@gmail.com**
 
