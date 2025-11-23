@@ -1,6 +1,10 @@
+<p align="center">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="srijanisinha" width='350' height='350' />
+</p>
+
 <h1 align="center">Hi 👋, I'm Srijani Sinha</h1>
 <h3 align="center">I'm a passionate Data Analyst with expertise in extracting meaningful insights from complex datasets. I love working with data visualization, statistical analysis, and machine learning to solve real-world problems.</h3>
-
+<br></br>
 
 - 🌱 I’m currently learning **🔍 Scikit, ML**
 
